@@ -208,5 +208,8 @@ This project was created as part of a machine learning assignment to practice ch
 
 ## 📩 Contact
 
+**Shilpa K C**  
+[LinkedIn](https://www.linkedin.com/in/shilpa-kc) | [Email](shilpakcc@gmail.com)
+
 For questions or suggestions, feel free to reach out.
 
