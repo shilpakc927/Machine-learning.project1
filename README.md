@@ -205,7 +205,13 @@ print("ROC-AUC:", roc_auc)
 This project was created as part of a machine learning assignment to practice churn prediction using Logistic Regression.
 
 ---
+---
+## 📸 Project Screenshots
 
+- [Confusion Matrix Screenshot](Screenshot%2016.png)
+- [ROC Curve Screenshot](Screenshot%2017.png)
+
+---
 ## 📩 Contact
 
 **Shilpa K C**  
