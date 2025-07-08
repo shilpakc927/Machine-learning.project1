@@ -8,7 +8,7 @@ This project demonstrates a **machine learning classification task** using **Log
 
 ```
 ├── telecom_churn.csv          # Dataset containing customer features and churn labels
-├── ml_project1.ipynb          # Jupyter Notebook with complete code and analysis
+├── ml_project1(1).ipynb          # Jupyter Notebook with complete code and analysis
 ├── README.md                  # Project overview and instructions
 ```
 
